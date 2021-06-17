@@ -1,0 +1,24 @@
+{
+  "description": "This is a test consignment",
+  "weight": 65000,
+  "containers": [
+    {
+      "id": "01",
+      "customer_id": "cust001",
+      "user_id": "user001",
+      "origin": "xi'an"
+    },
+    {
+      "id": "02",
+      "customer_id": "cust002",
+      "user_id": "user001",
+      "origin": "beijing"
+    },
+    {
+      "id": "03",
+      "customer_id": "cust005",
+      "user_id": "user001",
+      "origin": "shanghai"
+    }
+  ]
+}
